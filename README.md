@@ -1,8 +1,8 @@
-# SnakeGame
+# Snake Game
 Snake Game using OpenCV in Python
 
 Simple Snake Game: Eat 15 apples to WIN
-"Don't eat your self or you LOSE >_>' "
+"Don't eat your self or you LOSE 😅 "
 
 Instructions:
 - Make sure to have a Camera
