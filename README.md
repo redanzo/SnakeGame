@@ -10,3 +10,7 @@ Instructions:
 - Move your hand to move the snake
 - Pres "R" key to restart the game
 
+Example
+
+https://user-images.githubusercontent.com/66446416/213943433-599ad01e-7a8b-449e-9021-5580ca8a8644.mp4
+
