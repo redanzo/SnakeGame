@@ -8,6 +8,7 @@ Instructions:
 - Use either hand(left or right), and pointer finger is head of the snake
 - Move your hand to move the snake
 - Pres "R" key to restart the game
+- To play download repo and run "main.py"
 
 Example
 
